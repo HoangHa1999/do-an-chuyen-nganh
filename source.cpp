@@ -13,10 +13,12 @@ int tich(int a, int b){
 }
 
 
+
 int main()
 {
 	int a, b;
 	char phepToan;
+	cout << "hello";
 	cout << "Nhap so nguyen 1: ";
 	cin >> a;
 	cout << "Nhap so nguyen 2: ";
