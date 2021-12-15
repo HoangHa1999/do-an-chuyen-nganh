@@ -1,0 +1,5 @@
+sua loi tren 1.txt: > 1.txt
+git add .
+git commit -mC7
+
+cho sua loi tren 1.txt:
