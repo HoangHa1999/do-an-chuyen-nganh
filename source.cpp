@@ -18,7 +18,11 @@ int main()
 {
 	int a, b;
 	char phepToan;
+<<<<<<< HEAD
 	cout <<"hello";
+=======
+	cout << "hello12345";
+>>>>>>> 377047b94f40c83036e5ca0d5c40a613cbe4d382
 	cout << "Nhap so nguyen 1: ";
 	cin >> a;
 	cout << "Nhap so nguyen 2: ";
